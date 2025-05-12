@@ -1,0 +1,16 @@
+{
+    "vnexpress": {
+        "title": "VNExpress",
+        "url": "https://vnexpress.net/tin-tuc-24h",
+        "base_url": "https://vnexpress.net",
+        "type": "news",
+        "tag": "wrapper-24h"
+    },
+    "cafef": {
+        "title": "CafeF",
+        "url": "https://cafef.vn/ajax/tinmoi.chn",
+        "base_url": "https://cafef.vn",
+        "type": "news",
+        "tag": ""
+    }
+}
